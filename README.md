@@ -5,6 +5,6 @@
 
 1. Type in either node bamazoncustomer.js or node bamazonmanger.js and follow the prompts 
 
-The screen shots of the app running are included up top
+The screen shots of the app running are here: https://docs.google.com/document/d/18DrEH4tD7lH-RIh4xfSERh-0MEUIErAMONA8R60z8A0/edit?usp=sharing
 
 
